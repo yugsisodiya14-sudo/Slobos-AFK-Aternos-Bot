@@ -4,10 +4,9 @@
     "username": "Slobot00",
     "password": "",
     "type": "offline"
-  },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "1234556twtwe.aternos.me",
+    "port": 47072,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +31,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "i love you",
         "I like to play Minecraft!"
       ]
     },
@@ -60,7 +59,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -69,8 +68,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
